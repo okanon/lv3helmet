@@ -3,4 +3,4 @@
 </h1>
 
 # lv3helmet
-PUBG &amp; PUBG Mobile, discoed bot
+PUBG &amp; PUBG Mobile, Discord bot.
