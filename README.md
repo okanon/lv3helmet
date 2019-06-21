@@ -4,3 +4,11 @@
 
 # lv3helmet
 PUBG &amp; PUBG Mobile, Discord bot.
+
+## Requirements
+* [sleepy-discord](https://github.com/yourWaifu/sleepy-discord)
+* [OpenSSL](https://www.openssl.org/)
+* [cpr](https://github.com/whoshuu/cpr)
+* [Websocket++](https://github.com/zaphoyd/websocketpp)
+or
+[uWebSockets](https://github.com/uWebSockets/uWebSockets)
